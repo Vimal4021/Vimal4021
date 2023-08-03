@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<img align="right" alt="oding" width="400" sr="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwi_jPjmrsGAAxUtrycCHdg_B-4QMygAegUIARCZAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=animated%20coding%20gif&ved=2ahUKEwi_jPjmrsGAAxUtrycCHdg_B-4QMygAegUIARCZAg">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimal4021&label=Profile%20views&color=0e75b6&style=flat" alt="vimal4021" /> </p>
+
+- 🔭 I’m currently working on [Top 1000 IMDV Movies](https://github.com/Vimal4021)
+
+- 🌱 I’m currently learning **Data Analyst Interview**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Vimal4021](https://github.com/Vimal4021)
+
+- 📫 How to reach me **vimal.sahilkumar@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/s_a_h_i_l___vimal?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-vimal-293513245/) 
