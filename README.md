@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Top 1000 IMDV Movies](https://github.com/Vimal4021)
 
-- 🌱 I’m currently learning **Data Analyst Interview**
+- 🌱 I’m currently Preparing for **Data Analyst Interview**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vimal4021](https://github.com/Vimal4021)
 
